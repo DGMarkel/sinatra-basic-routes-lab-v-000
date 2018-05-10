@@ -15,7 +15,7 @@ class App < Sinatra::Base
   end
 
   get '/name' do
-    "My name is David."
+    "My favorite song is 'Liberation' by Outkast."
   end
 
 
